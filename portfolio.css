@@ -21,7 +21,7 @@ body::after{
     background-color: var(--bg-color);
     inset: 0;
     z-index: -1;
-    osition: absolute;
+    position: absolute;
     opacity: .5;
 }
 body a {
